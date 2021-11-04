@@ -1,6 +1,6 @@
 # HTML5
 
-## Atributos Blobais
+## Abordado
   - [X] Alinhamento Hierarquia
   - [X] Semântica\
   - [X] Cabeçalho e Parágrafos
@@ -9,7 +9,7 @@
   - [X] Abreviação => <abbr>
   - [X] Detalhes de Contato => <address>
   - [X] Lista de Descrição
-  - [X] Representação de Código => <code> / <pre>
+  - [X] Representação de Código => <!--<code> / <pre>--> 
   - [X] Conhecendo a tag âncora => fragmento / email <href:"mailto:johnny@..."> / telefone <href:"" telefone: 999> / Download <href:"" download:>< / Target <href:"" target:_blank> abre outro aba no navegador
   - [x] Fragmentos nos links => tem por objetivos, fazer links com conteúdos da mesma página.
 
