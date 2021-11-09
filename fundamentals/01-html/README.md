@@ -12,5 +12,9 @@
   - [X] Representação de Código => <!--<code> / <pre>--> 
   - [X] Conhecendo a tag âncora => fragmento / email <href:"mailto:johnny@..."> / telefone <href:"" telefone: 999> / Download <href:"" download:>< / Target <href:"" target:_blank> abre outro aba no navegador
   - [x] Fragmentos nos links => tem por objetivos, fazer links com conteúdos da mesma página.
+  
+  - Desafio...
+  
+  Estrutura em html
 
 
